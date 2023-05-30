@@ -1,6 +1,6 @@
 public class Exercise_1 {
         public static void main(String[] args) {
-            double radius = 5.0; // радіус кола
+            double radius = 5.0;
             double area = calculateCircleArea(radius);
             System.out.println("Площа кола: " + area);
         }
