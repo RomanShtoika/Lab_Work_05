@@ -18,7 +18,7 @@ To run this project, you must have the following installed on your computer: Int
 
 # Build Instructions
 Clone the repository to your local machine using <br>
-git clone  
+git clone  https://github.com/RomanShtoika/Lab_Work_05
 # Results
 
 Task_1: <br>
@@ -37,3 +37,6 @@ Task_4: <br>
 
 ![4](https://github.com/RomanShtoika/Lab_Work_05/assets/135036174/9dbdd778-3415-4b4c-831a-cf6b48162b86)
 
+# Support
+
+If you encounter any issues while running the project, please reach out to us at roman.shtoika.tr.2021@lpnu.ua
